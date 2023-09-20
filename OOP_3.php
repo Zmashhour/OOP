@@ -1,7 +1,5 @@
 <?php
 
-use Circle as GlobalCircle;
-
 class Author{
     private string $name;
     private string $email;
