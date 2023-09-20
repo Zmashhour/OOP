@@ -1,3 +1,7 @@
 # OOP
 
-OOP task_2 and task_3
+OOP task_2 
+
+and 
+
+task_3
